@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/candle-shop/static/css/main.073c9b0a.css",
+    "main.js": "/candle-shop/static/js/main.c6823671.js",
+    "static/js/787.5f1715b5.chunk.js": "/candle-shop/static/js/787.5f1715b5.chunk.js",
+    "static/media/logo.svg": "/candle-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/candle-shop/index.html",
+    "main.073c9b0a.css.map": "/candle-shop/static/css/main.073c9b0a.css.map",
+    "main.c6823671.js.map": "/candle-shop/static/js/main.c6823671.js.map",
+    "787.5f1715b5.chunk.js.map": "/candle-shop/static/js/787.5f1715b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c6823671.js"
+  ]
+}
